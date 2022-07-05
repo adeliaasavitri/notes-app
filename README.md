@@ -3,7 +3,7 @@
 This notes application is made with React.Js!
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/107742050/177389261-b0917bdb-39cc-4a19-baa3-ea4f828d6c35.jpg" width="50%" height="auto" /> 
+<img src="https://user-images.githubusercontent.com/107742050/177389261-b0917bdb-39cc-4a19-baa3-ea4f828d6c35.jpg" width="60%" height="auto" /> 
 </p>
 
 
